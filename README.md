@@ -5,11 +5,9 @@
 
 - 🔭 **I’m currently working on:**  [Saloon services](https://www.herespa.com/)
 
-- 💬 **Ask me about:** **React.js, Next.js, node.js, Typescript, Express.js, Javascript**
+- 💬 **Ask me about:** **React.js, Next.js, PHP, Typescript, HTML, CSS, MYSQL, Laravel, Wordpress, CodeIgniter, Javascript**
 
-- 📫 How to reach me **pankajbisht4593@gmail.com**
-
-- 🌱 **I’m currently learning:**  Advanced AWS Services and GraphQL.
+- 📫 How to reach me **akshayptd75@gmail.com**
 
 - 📄 Know about my experiences [8+ years experience as a full stack professional](8+ years experience as a full stack professional)
 
